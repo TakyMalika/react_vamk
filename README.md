@@ -1,0 +1,1 @@
+Created a React project, edited App.js adn App.css and showed "VAMK ON #PARASTAAIKAA" in the app.
